@@ -4,6 +4,7 @@
 
 The strongest pattern across all coupons:  
 **People are much more likely to accept a coupon for a place they already go to regularly.**
+Link to Jupyter Notebook: https://github.com/ismaelmali/Practical_Assignment_1/blob/71b5c55b25f305c8dd1aff1a119100c85542d83d/Practical_Application_1.ipynb 
 
 ## 2. Bar Coupon Findings
 
