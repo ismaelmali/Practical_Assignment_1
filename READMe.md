@@ -41,4 +41,4 @@ Key differences:
   - Income showed minor trends (higher income groups occasionally more willing), but not a strong driver
   - Occupation had a impact where jobs with longer or unusual hours (healthcare, maintenance) had higher acceptance rates
 
-Bottom line for coffee houses: **Regular coffee drinkers and young driver** = best acceptance odds.
+Bottom line for coffee houses: **Regular coffee drinkers and young driver** = best acceptance odds. 
